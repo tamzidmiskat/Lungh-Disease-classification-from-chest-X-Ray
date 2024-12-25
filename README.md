@@ -75,14 +75,6 @@ Install dependencies using the `requirements.txt` file provided.
 - Expanding the dataset for improved generalization.
 - Adding deployment-ready scripts for model integration into production.
 
-## License
-This project is licensed under the [Your License].
-
 ## Acknowledgements
 - The TensorFlow and Keras teams for their excellent libraries.
 - Contributors to scikit-learn for SVM integration.
-
----
-
-Feel free to reach out for collaboration or queries!
-
